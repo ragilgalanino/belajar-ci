@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <title>Document</title>
-</head>
-<body>
-    <div class="container">
+<div class="container">
+      <h1> Edit User</h1>
         <div class="row">
             <div class="col-sm-9">
                 <form action="<?= base_url('admin/users/update'); ?>" method="POST">
@@ -27,7 +19,3 @@
         </div>    
     </div>
 </div>
-
-
-</body>
-</html>
