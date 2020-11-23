@@ -1,1 +1,1 @@
-<h1>Selamat Datang di halaman Admin</h1>
+<h1>Welcome</h1>
